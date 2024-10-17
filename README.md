@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Ankush<br>👀 I’m interested in bot development, DSA and AI.<br>🌱 I’m currently learning Java, Python, Javascript, DSA.
+👋 Hi, I’m Ankush<br>👀 I’m interested in app development, bot development, DSA and AI.<br>🌱 I’m currently learning Java, Javascript, Typescript, DSA.
 
 
 ## 🌐 Socials:
